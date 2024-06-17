@@ -17,4 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spandanmandal&show_icons=true&locale=en&layout=compact" alt="spandanmandal" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spandanmandal&show_icons=true&locale=en" alt="spandanmandal" /></p>
+
+[![An image of @spandanmandal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spandanmandal)](https://holopin.io/@spandanmandal)
