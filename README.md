@@ -1,3 +1,4 @@
+![logo](https://github.com/SpandanMandal/SpandanMandal/blob/main/COMPUTER.jpg)
 <h1 align="center">Hi 👋, I'm Spandan Mandal</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
